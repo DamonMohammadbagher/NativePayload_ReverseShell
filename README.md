@@ -12,3 +12,4 @@ Video Step by Step : https://www.youtube.com/watch?v=VkFcy1Dg-pU&feature=youtu.b
 Article : https://www.linkedin.com/pulse/bypassing-avs-c-managed-code-reverse-shell-damon-mohammadbagher/
 
 
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_ReverseShell"/></a></p>
